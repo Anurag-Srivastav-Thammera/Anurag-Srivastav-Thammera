@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **AI Personalized music Application 🎶**
+- 🔭 Building AspireX**
 
-- 🌱 I’m currently learning **Deep learning, Computer Vision**
+- 🌱 I’m currently learning **Deep learning, Computer Vision, AI Agents etc...**
 
 - 🔬I excel in **creating compelling visualizations to convey insights effectively.**
 
@@ -42,9 +42,9 @@
 | Projects              | Deployed Link                                 | Repository                                       | Tech Stack & Tools                                                   |
 |:----------------------|:---------------------------------------------:|:-----------------------------------------------:|:---------------------------------------------------------------------|
 | EchoClone AI          | [view](https://echoclone-ai.streamlit.app/)  | [repo](https://github.com/anurag-srivatsav/EchoClone-AI) | `Python`  `Google Gen-AI`  `LangChain`  `Streamlit` `PlayHT` `Hugging Face` |
-| My Portfolio Assistant| [view](https://anuragsportfolioassist.streamlit.app/) | [repo](https://github.com/anurag-srivatsav/integratedAIbot) | `HTML` `CSS` `JavaScript` `React.js` `Node.js` `Python` `Google Gen-AI` `LangChain` `Streamlit` `Hugging Face` |
-| My Portfolio          | [view](https://anuragsrivatsav.netlify.app/) | [repo](https://github.com/anurag-srivatsav/MyPortfolio) | `HTML` `CSS` `Node.js` `React` `AI`                                   |
-| The Infinite Narrative| [view](https://mindbending.netlify.app/)     | [repo](https://github.com/anurag-srivatsav/ImaginativeWorld) | `HTML` `CSS` `Node.js` `React` `AI`                                   |
+| NeuroDesk| [view](https://neurodeskai.netlify.app/) | [repo](https://github.com/anurag-srivatsav/Desktop_AI) |  `sql` `JavaScript` `React.js` `Node.js` `Python` `LLM` `LangChain` `Streamlit` `Hugging Face` |
+| My Portfolio          | [view](https://anuragsrivatsav4.netlify.app/) | [repo](https://github.com/anurag-srivatsav/MyPortfolio) | `HTML` `CSS` `Node.js` `React` `AI`                                   |
+| iGita-Application| [view](https://igita.netlify.app/home.html)     | [repo](https://github.com/anurag-srivatsav/iGita-Application) | `HTML` `Node.js` `React` `AI`                                   |
 
 
 <br>
