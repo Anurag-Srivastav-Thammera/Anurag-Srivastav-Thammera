@@ -71,10 +71,10 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <h1>Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30"></h1>  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-srivatsav&show_icons=true&locale=en&layout=compact" alt="anurag-srivatsav" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag-Srivastav-Thammera&show_icons=true&locale=en&layout=compact" alt="anurag-srivastav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-srivatsav&show_icons=true&locale=en" alt="anurag-srivatsav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag-Srivastav-Thammera&show_icons=true&locale=en" alt="Anurag-Srivastav-Thammera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-srivatsav&" alt="anurag-srivatsav" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Srivastav-Thammera&" alt="Anurag-Srivastav-Thammera" /></p>
 
-[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anurag-srivatsav&bg_color=ffffff&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/anurag-srivatsav)
+[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Srivastav-Thammera&bg_color=ffffff&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/Anurag-Srivastav-Thammera)
