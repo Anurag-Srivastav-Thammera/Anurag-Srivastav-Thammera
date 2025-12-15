@@ -17,7 +17,7 @@
 
 ## About Me
 
-AI Developer specializing in Deep Learning, Computer Vision, and Large Language Models. Currently building **AspireX** and exploring cutting-edge AI technologies. Passionate about creating intelligent systems that solve real-world problems.
+AI Developer specializing in Deep Learning, Computer Vision, and Large Language Models. Exploring cutting-edge AI technologies. Passionate about creating intelligent systems that solve real-world problems.
 
 **Focus Areas:** Deep Learning · Computer Vision · AI Agents · LLMs · Data Science
 
@@ -25,7 +25,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 **Contact:** [anuragsrivatsav4@gmail.com](mailto:anuragsrivatsav4@gmail.com)
 
-**Resume:** [View Here](https://drive.google.com/file/d/1ePE_Yf5fQCuJbUMjXxQ0gHTUAE4f9LOj/view)
+**Resume:** [View Here](https://drive.google.com/file/d/1GDa_SceGHyfmLG1--egAeZucUP0-0t_m/view)
 
 <br/>
 
@@ -66,21 +66,21 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">EchoClone AI</h3>
+<h3 align="center">iGita — Spiritual & Professional Psychiatrist</h3>
 <div align="center">
-<a href="https://echoclone-ai.streamlit.app/" target="_blank">
+<a href="https://igita.netlify.app/home.html" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/anurag-srivatsav/EchoClone-AI" target="_blank">
+<a href="https://github.com/anurag-srivatsav/" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>AI-powered voice cloning application</strong></p>
-<p>Python · Google Gen-AI · LangChain · Streamlit · PlayHT · Hugging Face</p>
+<p><strong> World’s First AI-Guided Spiritual Companion </strong></p>
+<p>Python · Google Gen-AI · LangChain · React · PlayHT · Hugging Face</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">NeuroDesk</h3>
+<h3 align="center">NeuroDesk — Smart, caring, and always one step ahead</h3>
 <div align="center">
 <a href="https://neurodeskai.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
@@ -88,7 +88,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <a href="https://github.com/anurag-srivatsav/Desktop_AI" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>AI-powered desktop assistant</strong></p>
+<p><strong>Personal Intelligence Engine</strong></p>
 <p>React.js · Node.js · Python · LLM · LangChain · SQL</p>
 </div>
 </td>
@@ -98,10 +98,10 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <td width="50%">
 <h3 align="center">My Portfolio</h3>
 <div align="center">
-<a href="https://anuragsrivatsav4.netlify.app/" target="_blank">
+<a href="https://anuragsrivastavthammera.me/" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/anurag-srivatsav/MyPortfolio" target="_blank">
+<a href="https://github.com/anurag-srivatsav/" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <p><strong>Modern interactive portfolio</strong></p>
@@ -110,15 +110,15 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 </td>
 
 <td width="50%">
-<h3 align="center">iGita Application</h3>
+<h3 align="center">DreamForge Narrative — Your companion for infinite storytelling</h3>
 <div align="center">
-<a href="https://igita.netlify.app/home.html" target="_blank">
+<a href="https://anuragsrivastav.vercel.app/about" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
 </a>
 <a href="https://github.com/anurag-srivatsav/iGita-Application" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<p><strong>Modern web application</strong></p>
+<p><strong>Creative AI Suite</strong></p>
 <p>HTML · React · Node.js · AI</p>
 </div>
 </td>
@@ -152,7 +152,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 <br/>
 
-<img src="https://pbs.twimg.com/media/F4tCf6wasAAHk8a?format=jpg&name=large" alt="Banner" width="100%" height="350px">
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
