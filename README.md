@@ -66,12 +66,12 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">iGita — Spiritual & Professional Psychiatrist</h3>
+<h3 align="center">KrAiGita — Spiritual & Professional Psychiatrist</h3>
 <div align="center">
-<a href="https://igita.netlify.app/home.html" target="_blank">
+<a href="https://kraigita.live" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/anurag-srivatsav/" target="_blank">
+<a href="https://github.com/anurag-srivastav-thammera/" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <p><strong> World’s First AI-Guided Spiritual Companion </strong></p>
@@ -80,12 +80,12 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 </td>
 
 <td width="50%">
-<h3 align="center">NeuroDesk — Smart, caring, and always one step ahead</h3>
+<h3 align="center">KrAIsphere — Smart, caring, and always one step ahead</h3>
 <div align="center">
-<a href="https://neurodeskai.netlify.app/" target="_blank">
+<a href="https://Kraisphere.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/anurag-srivatsav/Desktop_AI" target="_blank">
+<a href="https://github.com/anurag-srivastav-thammera/Desktop_AI" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <p><strong>Personal Intelligence Engine</strong></p>
@@ -96,12 +96,12 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 <tr>
 <td width="50%">
-<h3 align="center">My Portfolio</h3>
+<h3 align="center">My 3 worlds Portfolio</h3>
 <div align="center">
 <a href="https://anuragsrivastavthammera.me/" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/anurag-srivatsav/" target="_blank">
+<a href="https://github.com/anurag-srivastav-thammera/" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <p><strong>Modern interactive portfolio</strong></p>
@@ -115,7 +115,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <a href="https://anuragsrivastav.vercel.app/about" target="_blank">
 <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
 </a>
-<a href="https://github.com/anurag-srivatsav/iGita-Application" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <p><strong>Creative AI Suite</strong></p>
