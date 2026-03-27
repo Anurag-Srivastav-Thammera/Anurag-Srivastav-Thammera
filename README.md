@@ -135,7 +135,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 </div>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anurag-Srivastav-Thammera)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
