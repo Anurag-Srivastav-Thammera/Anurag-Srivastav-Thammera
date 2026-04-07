@@ -1,5 +1,5 @@
 <img src="https://pbs.twimg.com/media/F4tCf6wasAAHk8a?format=jpg&name=large" alt="Banner" width="100%" height="350px">
-<br/>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anurag%20Srivastav%20Thammera&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20|%20ML%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
@@ -14,7 +14,6 @@
 
 
 
-<br/>
 
 
 
