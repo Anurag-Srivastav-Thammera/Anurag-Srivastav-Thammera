@@ -157,7 +157,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 <p align="center">
 <a href="https://linkedin.com/in/anuragsrivatsav"><img src="./Assets/linkedin-anime.gif" alt="linkedin anime gif" width="100"></a>
-<a href="https://x.com/AnuragSrivatsa4"><img src="./Assets/twitter-anime.gif" alt="twitter anime gif" width="100"></a>
+<a href="https://x.com/ThammeraAnurag"><img src="./Assets/twitter-anime.gif" alt="twitter anime gif" width="100"></a>
 <a href="https://instagram.com/anuragsrivatsav4"><img src="./Assets/instagram-anime.gif" alt="instagram anime gif" width="100"></a>
 <a href="mailto:anuragsrivatsav4@gmail.com"><img src="./Assets/email_png.png" width="110"></a>
 </p>
