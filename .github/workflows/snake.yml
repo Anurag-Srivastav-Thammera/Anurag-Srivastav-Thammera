@@ -5,13 +5,13 @@ on:
     - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch: # Allows you to run it manually
 
-# This section gives the action permission to save the file to your repo
+# Give the GITHUB_TOKEN write permission
 permissions:
   contents: write
 
 jobs:
   build:
-    runs-with: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
