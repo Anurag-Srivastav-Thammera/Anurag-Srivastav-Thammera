@@ -146,10 +146,10 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-Srivastav-Thammera&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Srivastav-Thammera&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&area_color=6366f1" alt="Activity Graph"/>
-</div>
+</div> -->
 
 <br/>
 
