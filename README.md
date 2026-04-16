@@ -1,9 +1,9 @@
-<img src="https://pbs.twimg.com/media/F4tCf6wasAAHk8a?format=jpg&name=large" alt="Banner" width="100%" height="350px">
+<!-- <img src="https://pbs.twimg.com/media/F4tCf6wasAAHk8a?format=jpg&name=large" alt="Banner" width="100%" height="350px">
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anurag%20Srivastav%20Thammera&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20|%20ML%20Engineer%20|%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=AI+Developer+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+AI+Agents" alt="Typing SVG" />
