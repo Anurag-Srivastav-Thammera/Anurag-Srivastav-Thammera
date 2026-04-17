@@ -93,8 +93,8 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 ## GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anurag-Srivastav-Thammera&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Anurag-Srivastav-Thammera&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-theta-five-50.vercel.app/api?username=Anurag-Srivastav-Thammera&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true%22" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-Srivastav-Thammera&theme=react-dark&bg_color=00000000&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
