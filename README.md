@@ -165,7 +165,12 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <br/>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag-Srivastav-Thammera/Anurag-Srivastav-Thammera/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag-Srivastav-Thammera/Anurag-Srivastav-Thammera/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anurag-Srivastav-Thammera/Anurag-Srivastav-Thammera/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+</div> -->
