@@ -41,7 +41,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 
 
-### 🛠️ Tech Stack
+
 
 <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 
@@ -75,67 +75,18 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">KrAiGita — Spiritual & Professional Psychiatrist</h3>
-<div align="center">
-<a href="https://kraigita.live" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/anurag-srivastav-thammera/" target="_blank">
-<img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<p><strong> World’s First AI-Guided Spiritual Companion </strong></p>
-<p>Python · Google Gen-AI · LangChain · React · PlayHT · Hugging Face</p>
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">KrAIsphere — Smart, caring, and always one step ahead</h3>
-<div align="center">
-<a href="https://Kraisphere.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/anurag-srivastav-thammera/Desktop_AI" target="_blank">
-<img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<p><strong>Personal Intelligence Engine</strong></p>
-<p>React.js · Node.js · Python · LLM · LangChain · SQL</p>
-</div>
-</td>
-</tr>
+**[KrAiGita](https://kraigita.live)** — World's first AI-guided spiritual companion
+> Python · Google GenAI · LangChain · React · PlayHT · HuggingFace
 
-<tr>
-<td width="50%">
-<h3 align="center">My 3 worlds Portfolio</h3>
-<div align="center">
-<a href="https://anuragsrivastavthammera.me/" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="https://github.com/anurag-srivastav-thammera/" target="_blank">
-<img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<p><strong>Modern interactive portfolio</strong></p>
-<p>HTML · CSS · React · Node.js · AI</p>
-</div>
-</td>
+**[KrAIsphere](https://Kraisphereai.vercel.app/)** — Personal intelligence engine
+> React · Node.js · Python · LLM · LangChain · SQL
 
-<td width="50%">
-<h3 align="center">DreamForge Narrative — Your companion for infinite storytelling</h3>
-<div align="center">
-<a href="https://anuragsrivastav.vercel.app/about" target="_blank">
-<img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-</a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<p><strong>Creative AI Suite</strong></p>
-<p>HTML · React · Node.js · AI</p>
-</div>
-</td>
-</tr>
-</table>
+**[EchoClone AI](https://github.com/Anurag-Srivastav-Thammera/EchoClone-AI)** — AI voice/persona cloning system
+> Python · Deep Learning
+
+**[Desktop AI Assistant](https://github.com/Anurag-Srivastav-Thammera/Desktop_AI)** — Voice-activated personal AI
+> Python · Voice Recognition · NLP
 
 <br/>
 
