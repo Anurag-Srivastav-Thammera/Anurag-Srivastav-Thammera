@@ -98,7 +98,8 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://github-readme-stats-theta-five-50.vercel.app/"><img src="https://streak-stats.demolab.com/?user=Anurag-Srivastav-Thammera&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" /></a>
+<a href="https://github-readme-stats-theta-five-50.vercel.app/"><img src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <!-- <div align="center">
