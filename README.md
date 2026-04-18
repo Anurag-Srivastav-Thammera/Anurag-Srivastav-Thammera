@@ -100,7 +100,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 <div align="center">
 
 <a href="https://github-readme-stats-theta-five-50.vercel.app/">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Srivastav-Thammera&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Srivastav-Thammera&theme=radical&hide_border=true&background=00000000" />
 </a>
 
 <a href="https://github-readme-stats-theta-five-50.vercel.app/">
