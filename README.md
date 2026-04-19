@@ -35,6 +35,8 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 
 **Resume:** [View Here](https://drive.google.com/file/d/1GDa_SceGHyfmLG1--egAeZucUP0-0t_m/view)
 
+**Current Project:** Working on Healthtech Product
+
 <br/>
 
 ## Skills <img src="./Assets/coding-symbol-anime.gif" alt="coding anime gif" width="30">
