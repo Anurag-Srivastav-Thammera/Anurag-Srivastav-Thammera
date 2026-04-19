@@ -130,8 +130,7 @@ AI Developer specializing in Deep Learning, Computer Vision, and Large Language 
 </p>
 
 <br/>
- <a href='http://www.freevisitorcounters.com'>http://freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=b0b381d732bdf6cbc391bf2fa79bc1bf4098e145'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1537183/t/10"></script>
+
 
 
 <picture>
