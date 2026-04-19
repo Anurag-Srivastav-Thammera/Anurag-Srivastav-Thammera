@@ -19,7 +19,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anurag-srivatsav&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
+  <a href="https://www.producthunt.com/products/kraigita/launches/kraigita?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-kraigita" target="_blank" rel="noopener noreferrer"><img alt="KrAiGita - The Spiritual Intelligence AI trained on ancient scriptures. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1098421&amp;theme=light&amp;t=1776585168014"></a>
 </p>
+
 
 <br/>
 
