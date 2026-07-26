@@ -116,9 +116,9 @@ An open framework for building **Agent-to-Agent (A2A)** communication systems, e
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anurag-Srivastav-Thammera&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+  
   <img width="49%" src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=transparent&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=radical&hide_border=true&mode=weekly&background=00000000" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Anurag-Srivastav-Thammera&theme=transparent&hide_border=true&mode=weekly&background=00000000" />
 </p>
 
 <p align="center">
