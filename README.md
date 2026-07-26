@@ -87,9 +87,27 @@ Agentic AI · LLMs · Healthcare & Clinical Intelligence · Multi-Agent Systems 
 <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
 </p>
 
+## Open Source
+
+I enjoy building open-source tools that simplify AI development, improve developer experience, and accelerate the adoption of intelligent systems.
+
+### MCP Guard
+Secure infrastructure for the **Model Context Protocol (MCP)**, providing authentication, authorization, and access control for AI applications.
+
+**Tech Stack:** Python • FastAPI • MCP • Security
+
+---
+
+### A2A Framework
+An open framework for building **Agent-to-Agent (A2A)** communication systems, enabling autonomous AI agents to collaborate, exchange context, and execute complex workflows.
+
+**Tech Stack:** Python • Multi-Agent Systems • LLMs • AI Infrastructure
+
 ## Philosophy
 
-> I don't measure progress by the number of models trained or lines of code written. I measure it by the problems solved, the people empowered, and the systems that keep creating value long after they're built.
+> I don't measure progress by the number of models trained or lines of code written.
+>
+> I measure it by the problems solved, the people empowered, and the systems that keep creating value long after they're built.
 
 ## GitHub Activity
 
