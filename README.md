@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dvlgixtg8/image/upload/v1777361018/anurag-founder-linkedin-banner_htd3ym.png" alt="Anurag Srivastav Thammera" width="100%" />
+  <img src="https://res.cloudinary.com/dvlgixtg8/image/upload/v1789542849/anurag-founder-banner.png" alt="Anurag Srivastav Thammera" width="100%" />
 </p>
 
 
