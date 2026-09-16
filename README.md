@@ -85,9 +85,17 @@ A professional clinical network where doctors,medical students can discuss, lear
 ### Founder — Kraionyx AI
 *2025 – Present*
 
-Leading product strategy, AI architecture, and engineering for healthcare AI systems.
+Building Kraionyx AI from product concept to an operating healthcare AI company, while leading product strategy, AI architecture, engineering, market research, go-to-market, partnerships, and brand development.
 
-Working across clinical intelligence, multi-agent systems, LLM applications, healthcare workflows, AI infrastructure, and production engineering — from early product concepts and PRDs to working systems and pilots.
+I work closely across the full company lifecycle — identifying healthcare problems through market and clinical research, translating them into product requirements, designing AI systems, shaping product positioning, preparing pilots, speaking with hospitals and doctors, and taking products from early concepts to working systems.
+
+Beyond product development, I’m actively involved in building the Kraionyx brand — including product identity, visual direction, company messaging, mascot and brand assets, pitch materials, social presence, and how our products are presented to hospitals, partners, and the broader ecosystem.
+
+During my time leading Kraionyx AI, the company has been selected for and supported by programs including Google for Startups Hub, NVIDIA Inception, Sarvam AI Startup Program, and Deepgram for Startups, while also operating within Hyderabad’s startup ecosystem through T-Hub.
+
+My role spans:
+
+Product Strategy · AI Architecture · Healthcare Market Research · Clinical Workflow Research · GTM · Hospital Pilots · Partnerships · Brand Strategy · Product Positioning · Founder Outreach · Team Building · AI Engineering
 
 ### AI Research Intern — IIT Hyderabad × LV Prasad Eye Institute
 
