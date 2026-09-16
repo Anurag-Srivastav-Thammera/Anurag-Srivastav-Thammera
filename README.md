@@ -1,113 +1,188 @@
 <!-- ========================================================= -->
-<!--                        HERO SECTION                       -->
+<!--                         HERO SECTION                       -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dvlgixtg8/image/upload/v1789542849/anurag-founder-banner.png" alt="Anurag Srivastav Thammera" width="100%" />
+  <img
+    src="https://res.cloudinary.com/dvlgixtg8/image/upload/v1789542849/anurag-founder-banner.png"
+    alt="Anurag Srivastav Thammera"
+    width="100%"
+  />
 </p>
-
-
 
 <h1 align="center">Anurag Srivastav Thammera</h1>
 
 <p align="center">
-  <strong>Founder & AI
- Engineer</strong>
+  <strong>Founder, Kraionyx AI · AI Engineer</strong>
 </p>
 
 <p align="center">
-  Building the Operating System for Healthcare Intelligence
+  From Digital Healthcare to Intelligent Healthcare
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Founder+of+Kraionyx+AI;Building+AI+Infrastructure+for+Healthcare;Agentic+AI+%7C+LLMs+%7C+Healthcare+AI;Shipping+Intelligent+Systems+at+Scale" alt="Typing Animation"/>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://linkedin.com/in/anuragsrivatsav"><img src="https://img.shields.io/badge/LinkedIn-Anurag-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://x.com/ThammeraAnurag"><img src="https://img.shields.io/badge/X-@ThammeraAnurag-000000?style=for-the-badge&logo=x"/></a>
-  <a href="mailto:anuragsrivatsav4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <em>Building What AI Does Next.</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anurag-srivatsav&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Anurag-Srivastav-Thammera?style=for-the-badge&logo=github" alt="GitHub Followers"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA-Inception-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_for_Startups-Founder-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Product_Hunt-Featured-DA552F?style=for-the-badge&logo=producthunt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon-ML_Summer_School-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+  <a href="https://linkedin.com/in/anuragsrivatsav">
+    <img src="https://img.shields.io/badge/LinkedIn-Anurag-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ThammeraAnurag">
+    <img src="https://img.shields.io/badge/X-@ThammeraAnurag-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:anuragsrivastavthammera@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> **"Building intelligent systems that make healthcare more capable, efficient, and accessible."**
-
 ## About
 
-I'm the Founder  of **Kraionyx AI**, where I lead product strategy, AI architecture, and engineering — building AI-native infrastructure for healthcare.
+I’ve always had a habit of asking **“why?”, “how?”, and mostly, “what if?”**
 
-My work spans agentic AI, large language models, distributed systems, and production-grade engineering. I focus on making AI reliable enough for real clinical workflows, not just impressive in a demo — technology that's useful, trustworthy, and creates value long after it ships.
+What if something that feels like science fiction could actually be built?  
+What if an idea that sounds impossible today becomes normal tomorrow?
+
+That curiosity is usually where everything starts for me.
+
+I'm an **AI Engineer and the Founder of Kraionyx AI**. I like building things simply because I want to know if they can exist.
+
+AI systems, healthcare intelligence, robotics, and experimental products — most of them begin as a random thought in my head and turn into something real through a lot of building, breaking, and figuring things out.
+
+I’m less interested in predicting the future than in trying to build a piece of it.
+
+> **The next version is always worth building.**
+
+---
+
+## What I'm Building
+
+
+### KareOS
+
+**Operating Healthcare Intelligence**
+
+An AI operating layer for hospitals and clinicians, bringing clinical documentation, decision support, patient intelligence, research, and workflow automation into one intelligent workspace.
+
+### Svaani
+
+**Ambient Voice Intelligence**
+
+Clinical voice intelligence that transforms doctor–patient conversations into structured clinical documentation while keeping the doctor in control.
+
+### Doclave
+
+**Professional Network for Doctors**
+
+A professional clinical network where doctors,medical students can discuss, learn from, and solve real-world clinical cases together.
+
+---
 
 ## Experience
 
-**Founder — Kraionyx AI** · *2025 – Present*
-Leading product strategy, AI architecture, and engineering for AI-native healthcare infrastructure — from PRD through shipped product.
+### Founder — Kraionyx AI
+*2025 – Present*
 
-**AI Research Intern — IIT Hyderabad × LV Prasad Eye Institute**
-Computer vision and deep learning for ophthalmology — medical image quality assessment and AI-assisted clinical applications.
+Leading product strategy, AI architecture, and engineering for healthcare AI systems.
+
+Working across clinical intelligence, multi-agent systems, LLM applications, healthcare workflows, AI infrastructure, and production engineering — from early product concepts and PRDs to working systems and pilots.
+
+### AI Research Intern — IIT Hyderabad × LV Prasad Eye Institute
+
+Worked on computer vision and deep learning applications in ophthalmology, including medical image quality assessment and AI-assisted clinical applications.
+
+---
 
 ## Focus Areas
 
-Agentic AI · LLMs · Healthcare & Clinical Intelligence · Multi-Agent Systems · AI Infrastructure · Distributed Systems . Open Source
-. AI Research
+**AI Engineering · Healthcare AI · Clinical Intelligence · LLM Systems · Multi-Agent Systems · AI Infrastructure · AI Research · Open Source**
 
-## Technologies
-
-<p align="center">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://pytorch.org"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://huggingface.co"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></a>
-<a href="https://langchain.com"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/></a>
-<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/></a>
-<a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-</p>
+---
 
 ## Open Source
 
-I enjoy building open-source tools that simplify AI development, improve developer experience, and accelerate the adoption of intelligent systems.
+I enjoy building open-source systems around AI infrastructure, developer tooling, and emerging AI protocols.
 
 ### MCP Guard
-Secure infrastructure for the **Model Context Protocol (MCP)**, providing authentication, authorization, and access control for AI applications.
 
-**Tech Stack:** Python • FastAPI • MCP • Security
+Security infrastructure for the **Model Context Protocol (MCP)**, designed to improve the safety and control of MCP-based AI applications.
+
+**Tech:** Python · FastAPI · MCP · Security
 
 ---
 
 ### A2A Framework
-An open framework for building **Agent-to-Agent (A2A)** communication systems, enabling autonomous AI agents to collaborate, exchange context, and execute complex workflows.
 
-**Tech Stack:** Python • Multi-Agent Systems • LLMs • AI Infrastructure
+An open framework for experimenting with **Agent-to-Agent communication**, enabling AI agents to exchange context, collaborate, and coordinate across multi-agent workflows.
 
-## Philosophy
+**Tech:** Python · LLMs · Multi-Agent Systems · AI Infrastructure
 
-> I don't measure progress by the number of models trained or lines of code written.
->
-> I measure it by the problems solved, the people empowered, and the systems that keep creating value long after they're built.
+---
+
+## Core Technologies
+
+<p align="center">
+
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://pytorch.org">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42" alt="PyTorch"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://huggingface.co">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" alt="Hugging Face"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://fastapi.tiangolo.com">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="42" height="42" alt="FastAPI"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.postgresql.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.docker.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://aws.amazon.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://git-scm.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+</a>
+
+</p>
+
+---
+
+## Selected Programs & Recognition
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NVIDIA-Inception-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google_for_Startups-Founder-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Product_Hunt-Featured-DA552F?style=flat-square&logo=producthunt&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Amazon-ML_Summer_School-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+
+</p>
+
+---
 
 ## GitHub Activity
 
@@ -129,6 +204,18 @@ An open framework for building **Agent-to-Agent (A2A)** communication systems, e
   </picture>
 </p>
 
+---
+
 <p align="center">
-  <sub>Open to collaborations, research, and conversations around AI, healthcare, and entrepreneurship.</sub>
+  <strong>Building What AI Does Next.</strong>
+</p>
+
+<p align="center">
+  <em>The next version is always worth building.</em>
+</p>
+
+<p align="center">
+  <sub>
+    Open to conversations around AI, healthcare, research, open source, and building ambitious things.
+  </sub>
 </p>
